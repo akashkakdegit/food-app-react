@@ -1,0 +1,87 @@
+
+    .register{
+      margin-left: 50px;
+     text-align: center;
+    }
+   
+   .button2 {
+     background-color: white; 
+     color: black; 
+     width: 100%;
+     padding: 8px 10px;
+     border-radius: 10px;
+     border: 2px solid #008CBA;
+     position: relative;
+     top:15px;
+     margin-top: 10px
+   }
+   
+   .button2:hover {
+     background-color: #008CBA;
+     color: white;
+   }
+   
+   
+   .inputform{
+     border: none;
+     border-radius: 4px;
+     width: 100%;
+     padding: 8px 10px;
+     position: relative;
+     top:4px;
+   }
+   
+    .checkout{
+      text-align: left;
+      padding: 30px;
+      height: 500px;
+      width: 350px;
+      margin: 70px;
+      margin-left: 500px;
+      border-radius: 10px;
+      background-color: rgb(250, 189, 203);
+    }
+   
+    .cart{
+     margin-right: 30px;
+    }
+   
+    .reg{
+      height: 610px;
+    }
+   
+    .login{
+      height: 380px;
+    }
+    .check{
+     margin-left: 500px;
+     text-align: left;
+     padding: 30px;
+     width: 350px;
+     height: 60px;
+     font-family: 'Times New Roman', Times, serif;
+     position:relative;
+     top:170px;
+     left:145px;
+    }
+   
+    .formlabel{
+      padding: 7px;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 18px;
+      position: relative;
+      /*top:2.5px;*/
+
+    }
+
+    .warning{
+      position: relative;
+      top:25px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .account{
+      position: relative;
+      top:25px;
+    }
+    

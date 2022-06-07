@@ -1,0 +1,106 @@
+  .register{
+      margin-left: 50px;
+     text-align: center;
+    }
+
+    .button2 {
+      background-color: white; 
+      color: black; 
+      width: 100%;
+      padding: 8px 10px;
+      border-radius: 4px;
+      border: 2px solid #008CBA;
+      position: relative;
+      top:25px;
+    }
+    
+    .button2:hover {
+      background-color: #008CBA;
+      color: white;
+    }
+    
+    
+    .inputform{
+      border: none;
+      border-radius: 4px;
+      width: 100%;
+      padding: 8px 10px;
+      position: relative;
+      top:10px;
+      outline: none;
+    }
+    
+     .checkout{
+       text-align: left;
+       padding: 30px;
+       height: 500px;
+       width: 350px;
+       margin: 70px;
+       margin-left: 500px;
+       border-radius: 10px;
+       background-color: rgb(250, 189, 203);
+
+     }
+    
+     .cart{
+      margin-right: 30px;
+     }
+    
+     .reg{
+       height: 400px;
+     }
+    
+     .login{
+       height: 380px;
+     }
+     .check{
+      margin-left: 500px;
+      text-align: left;
+      padding: 30px;
+      width: 350px;
+      height: 60px;
+      font-family: 'Times New Roman', Times, serif;
+      position:relative;
+      top:170px;
+      left:145px;
+     }
+    
+     .formlabel{
+       padding: 7px;
+       font-family: 'Times New Roman', Times, serif;
+       font-size: 18px;
+       position: relative;
+       top:10px;
+     }
+
+     .already {
+      background-color: white; 
+      color: black; 
+      width:320px;
+      height:20px;
+      padding: 8px 10px;
+      border-radius: 4px;
+      border: 2px solid #008CBA;
+      position: relative;
+      top:30px;
+      margin-left: 2px;
+     text-align: center;
+     font-size:smaller;
+    }
+    
+    .already:hover {
+      background-color: #008CBA;
+      color: white;
+    }
+
+    .select{
+      position:relative;
+      top:12px;
+      
+    }
+
+    .warning{
+      position: relative;
+      top:35px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
